@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <rect x="4" y="4" width="56" height="56" rx="12" fill="none" stroke="currentColor" stroke-width="4"/>
-  <path d="M20 22a14 14 0 1 1-2 18" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/><path d="M16 18v12h12" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="32" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="currentColor">reset</text>
-</svg>
