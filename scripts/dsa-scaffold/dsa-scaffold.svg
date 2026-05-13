@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect x="4" y="4" width="56" height="56" rx="12" fill="none" stroke="currentColor" stroke-width="4"/>
+  <path d="M14 18h36M14 30h36M14 42h36M26 14v32M38 14v32" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  <text x="32" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="currentColor">scaffold</text>
+</svg>
